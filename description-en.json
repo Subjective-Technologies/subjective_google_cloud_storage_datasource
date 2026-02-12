@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Google Cloud Storage intended to ingest object storage content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Google Cloud Storage",
-      "text": "A Subjective data source for Google Cloud Storage. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Google Cloud Storage intended to ingest object storage content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_google_cloud_storage_datasource/icon.svg",
         "alt": "Google Cloud Storage icon"
